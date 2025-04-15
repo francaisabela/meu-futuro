@@ -3,6 +3,7 @@
     color: black;
     text-align: center;
     padding: 15px;
+    border-radius: 10px;
 
 
 }
@@ -11,13 +12,16 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 0;
     padding: 0;
+  background-color: rgb(38, 0, 255);
+  border-radius: 10px;
 
-    background-color: rgb(38, 0, 255);
+
 }
 .ing{
     max-width:5%;
     height: auto;
     border-radius: 10px;
+
 }
 .sonhos{
     background-color: rgb(0, 195, 255);
@@ -26,4 +30,6 @@
     margin: 20px;
     text-align: center;
     font-size: 18px;
+    border-radius: 10px;
+
 }
